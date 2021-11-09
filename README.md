@@ -3,7 +3,7 @@ I'm **Kousuke Yama Or You Can Call me Yama**, An Developer Who Developed For fun
   
 Thanks for visiting my github profile. Have a great day ahead!~
   
-<h2 align="center"> ✨ About Me ✨</h2>
+<h2 align="center"> ⭐ 私について ⭐ </h2>
 
 ```js
 const KousukeYama = {
