@@ -34,4 +34,4 @@ const KousukeYama = {
 </details>
   
 <!-- Last updated on Tue Nov 09 2021 05:15:34 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 9th November 2021 using magic</i> ✨
+<i>Last updated on 9th November 2021 using magic</i>
