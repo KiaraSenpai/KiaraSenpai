@@ -1,5 +1,5 @@
 ## Konnichiwa Yama Here <img align="right" src="https://media.discordapp.net/attachments/898078923747901500/907569065734860830/bfe9e2d4ea3cd8e72cfda515ccdad9b8.jpg?width=288&height=432" width="200" />
-I'm **Kousuke Yama Or You Can Call me Yama**, An developer from somewhere in the earth. I like to code web applications and games. I have worked on many projects in my past, Some of my open source projects are pinned below make sure to check them out.
+I'm **Kousuke Yama Or You Can Call me Yama**, An Developer Who Developed For fun Iam Like to Developed Discord Bot With TypeScript And JavaScript.
   
 Thanks for visiting my github profile. Have a great day ahead!~
   
