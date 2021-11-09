@@ -19,7 +19,7 @@ const KousukeYama = {
 }; //I'm a Epic Object, UwU
 ```
   
-<h2 align="center"> 🚀 My Stats 🚀</h2>
+<h2 align="center"> 🚀 私の統計 🚀</h2>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=KousukeYama&theme=dracula">
 </p>
