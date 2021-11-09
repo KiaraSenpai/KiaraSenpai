@@ -21,7 +21,7 @@ const KousukeYama = {
   
 <h2 align="center"> 🚀 My Stats 🚀</h2>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
+<img src="![github Stats](https://github-readme-stats.vercel.app/api?username=KousukeYama&theme=radical)">
 </p>
 <details>
   <summary>
