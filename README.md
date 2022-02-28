@@ -25,7 +25,7 @@ const KousukeYama = {
 </p>
 <details>
   <summary>
-      About Chaewon
+      Lost Santos
   </summary>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=KousukeYama&theme=radical)">
