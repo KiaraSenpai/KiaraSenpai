@@ -18,7 +18,7 @@ Contact me here `KiaraSenpai#3341`
 </code>
 
 
-<img align="right" height="250" width="375" alt="" src="https://c.tenor.com/MUPLXu5TIiYAAAAC/majo-no-tabitabi-elaina.gif" />
+<img align="right" height="250" width="375" alt="" src="https://c.tenor.com/e29eXYgnDCYAAAAd/the-journey-of-elaina-majo-no-tabitabi.gif" />
 
 
 Last Update Today April 03-2022 ``22:55``
