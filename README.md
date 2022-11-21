@@ -1,6 +1,6 @@
 <img align="center" src="https://discord.c99.nl/widget/theme-3/853511872971276288.png" alt="Discord"/>
 
-<p align="left"> <img src=" https://discord.c99.nl/widget/theme-3/853511872971276288.png" alt="KiaraSenpai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiarasenpai&style=for-the-badge&label=PROFILE+VIEWS" alt="KiaraSenpai" /> </p>
 
 
 
