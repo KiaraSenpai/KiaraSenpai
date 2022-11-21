@@ -7,7 +7,5 @@
 </p>
 &nbsp;
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiarasenpai&style=for-the-badge&label=PROFILE+VIEWS" alt="KiaraSenpai" /> </p>
 
-<img width="25%" align="right" src="https://komarev.com/ghpvc/?username=kiarasenpai&style=for-the-badge&label=PROFILE+VIEWS" />
