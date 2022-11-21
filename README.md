@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="[https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif](https://i.pinimg.com/originals/4f/2d/a6/4f2da6dfcf48e48a5715c8a13dcc44f1.gif)" width="30px">, I am Kevin Patel </h1>
+<h1 align="center">Hi <img src="https://i.pinimg.com/originals/4f/2d/a6/4f2da6dfcf48e48a5715c8a13dcc44f1.gif" width="30px">, I am Kevin Patel </h1>
 
 <p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergraduation in the year 2021. <br>Soon, I would be joining New York University for Masters' of Computer Science program.</p>
 
